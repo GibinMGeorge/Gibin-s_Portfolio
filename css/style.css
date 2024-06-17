@@ -607,7 +607,7 @@ textarea {
     border-top: 1px solid #eee; }
   .header__sm-menu-link-last {
     border-bottom: 0; }
-
+    
 .main-footer {
   background: #202020;
   color: #fff; }
@@ -675,10 +675,7 @@ textarea {
     border-radius: 5px;
     font-weight: 600;
     color: #777; }
-  .skills__skill :hover{
-      transform: scale(1.25);
-  }
-
+    
 .mouse {
   width: 25px;
   height: 40px;
